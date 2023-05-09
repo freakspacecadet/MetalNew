@@ -1,0 +1,11 @@
+C:\Users\mesel\source\repos\Metallum\Metallum\bin\Debug\Metallum.exe.config
+C:\Users\mesel\source\repos\Metallum\Metallum\bin\Debug\Metallum.exe
+C:\Users\mesel\source\repos\Metallum\Metallum\bin\Debug\Metallum.pdb
+C:\Users\mesel\source\repos\Metallum\Metallum\obj\Debug\Metallum.csproj.AssemblyReference.cache
+C:\Users\mesel\source\repos\Metallum\Metallum\obj\Debug\Metallum.csproj.SuggestedBindingRedirects.cache
+C:\Users\mesel\source\repos\Metallum\Metallum\obj\Debug\Metallum.Form1.resources
+C:\Users\mesel\source\repos\Metallum\Metallum\obj\Debug\Metallum.Properties.Resources.resources
+C:\Users\mesel\source\repos\Metallum\Metallum\obj\Debug\Metallum.csproj.GenerateResource.cache
+C:\Users\mesel\source\repos\Metallum\Metallum\obj\Debug\Metallum.csproj.CoreCompileInputs.cache
+C:\Users\mesel\source\repos\Metallum\Metallum\obj\Debug\Metallum.exe
+C:\Users\mesel\source\repos\Metallum\Metallum\obj\Debug\Metallum.pdb
